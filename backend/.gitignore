@@ -21,9 +21,6 @@ wheels/
 *.egg
 
 # Virtual Environment
-../CAPO/
-../CAPO/include
-../CAPO/pyvenv.cfg
 venv/
 env/
 ENV/
